@@ -25,7 +25,7 @@ Step-7.Evaluate the model on both training and testing sets using MSE or other m
 Step-8.End 
 
 ## Program:
-```
+```py
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
 Developed by: LAVANYA S 
